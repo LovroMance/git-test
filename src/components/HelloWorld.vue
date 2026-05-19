@@ -16,8 +16,6 @@ defineProps<{
 </template>
 
 <style scoped>
-
-.greetings h1,
 .greetings h3 {
   text-align: center;
 }
